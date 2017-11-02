@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chapters">
+        <item>App Fundamentals</item>
+        <item>User Interface</item>
+        <item>View Controls</item>
+        <item>User Interactions</item>
+        <item>User Flows</item>
+        <item>Networking</item>
+        <item>Advanced Views</item>
+
+
+    </string-array>
+
+    <string-array name="chap1">
+        <item>Basic TextView</item>
+    </string-array>
+    <string-array name="chap2">
+        <item>Linear Layout Demo</item>
+    </string-array>
+    <string-array name="chap3">
+        <item>Layout Gravity</item>
+        <item>Simple ListView</item>
+    </string-array>
+    <string-array name="chap4">
+        <item>Basic Click Handlers</item>
+        <item>Handling ListView Clicks</item>
+    </string-array>
+    <string-array name="chap5">
+        <item>Implicit Intents</item>
+
+    </string-array>
+    <string-array name="chap6">
+        <item>Basic Image Download</item>
+    </string-array>
+    <string-array name="chap7">
+        <item>Toast Inputs</item>
+        <item>TimePicker</item>
+        <item>GridView</item>
+    </string-array>
+
+
+</resources>
